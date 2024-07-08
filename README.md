@@ -15,3 +15,6 @@ OpenVINO toolkit
 ![Screenshot 2024-07-06 020722](https://github.com/Pratikshya-050/intel-chatbot/assets/136421880/199fa8be-7138-4225-85d2-86b14567bab4)
 ![Screenshot 2024-07-06 020806](https://github.com/Pratikshya-050/intel-chatbot/assets/136421880/73ddd10e-eb96-436c-bc61-c54f1ba4771b)
 
+
+[intel_ppt.pptx](https://github.com/user-attachments/files/16125114/intel_ppt.pptx)
+
